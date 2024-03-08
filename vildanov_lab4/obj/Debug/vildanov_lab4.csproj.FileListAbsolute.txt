@@ -1,0 +1,9 @@
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\bin\Debug\vildanov_lab4.exe.config
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\bin\Debug\vildanov_lab4.exe
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\bin\Debug\vildanov_lab4.pdb
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\obj\Debug\vildanov_lab4.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\obj\Debug\vildanov_lab4.Properties.Resources.resources
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\obj\Debug\vildanov_lab4.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\obj\Debug\vildanov_lab4.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\obj\Debug\vildanov_lab4.exe
+C:\Users\Артем\Desktop\university\3 курс 2 семак\имитационное\лабы кристина\vildanov_lab4\obj\Debug\vildanov_lab4.pdb
